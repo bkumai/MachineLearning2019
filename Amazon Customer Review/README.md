@@ -1,1 +1,1 @@
-THis is a test site 
+My ideas for Amazon Product Review Analysis:
